@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JrZe0ZCbkqWZkew1KhZGjiwmif/a6WfX1BApUB2rPzENh8jfg8RaXDZ4CyP1MQ+9XD5dYRIqjL478DYTesXGGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\ConsoleApp229\\ConsoleApp229\\ConsoleApp229.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\softuni.wintellect.powercollections\\2.0.0\\softuni.wintellect.powercollections.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
