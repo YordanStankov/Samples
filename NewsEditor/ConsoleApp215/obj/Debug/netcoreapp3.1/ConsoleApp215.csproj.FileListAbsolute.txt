@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\ConsoleApp215\ConsoleApp215\bin\Debug\netcoreapp3.1\ConsoleApp215.exe
+C:\Users\User\source\repos\ConsoleApp215\ConsoleApp215\bin\Debug\netcoreapp3.1\ConsoleApp215.deps.json
+C:\Users\User\source\repos\ConsoleApp215\ConsoleApp215\bin\Debug\netcoreapp3.1\ConsoleApp215.runtimeconfig.json
+C:\Users\User\source\repos\ConsoleApp215\ConsoleApp215\bin\Debug\netcoreapp3.1\ConsoleApp215.runtimeconfig.dev.json
+C:\Users\User\source\repos\ConsoleApp215\ConsoleApp215\bin\Debug\netcoreapp3.1\ConsoleApp215.dll
+C:\Users\User\source\repos\ConsoleApp215\ConsoleApp215\bin\Debug\netcoreapp3.1\ConsoleApp215.pdb
+C:\Users\User\source\repos\ConsoleApp215\ConsoleApp215\obj\Debug\netcoreapp3.1\ConsoleApp215.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ConsoleApp215\ConsoleApp215\obj\Debug\netcoreapp3.1\ConsoleApp215.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ConsoleApp215\ConsoleApp215\obj\Debug\netcoreapp3.1\ConsoleApp215.AssemblyInfo.cs
+C:\Users\User\source\repos\ConsoleApp215\ConsoleApp215\obj\Debug\netcoreapp3.1\ConsoleApp215.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp215\ConsoleApp215\obj\Debug\netcoreapp3.1\ConsoleApp215.dll
+C:\Users\User\source\repos\ConsoleApp215\ConsoleApp215\obj\Debug\netcoreapp3.1\ConsoleApp215.pdb
+C:\Users\User\source\repos\ConsoleApp215\ConsoleApp215\obj\Debug\netcoreapp3.1\ConsoleApp215.genruntimeconfig.cache
